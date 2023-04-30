@@ -1,0 +1,9 @@
+{
+    "name": "com.basick.behavior-tree",
+    "version": "1.0.0",
+    "displayName": "Simple Behavior Tree",
+    "description": "A generic behavior tree for decision making.",
+    "author": {
+      "name": "cayb0rg"
+    }
+  }
